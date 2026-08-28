@@ -1,0 +1,7 @@
+office-reconcile
+Copyright 2026 3XIA00 (@136154-moss-9ab7)
+
+A publisher-authored Excel reconciliation engine.
+Licensed under the Apache License, Version 2.0; see the LICENSE file.
+
+Runtime dependency: openpyxl (MIT), pulled in at install time; not vendored here.
